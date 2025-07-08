@@ -1,0 +1,6 @@
+@zeyad_maged_3025316_HostAddress = http://localhost:5200
+
+GET {{zeyad_maged_3025316_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
